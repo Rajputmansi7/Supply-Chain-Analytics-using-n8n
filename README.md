@@ -239,7 +239,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-**Project Link:** [https://github.com/Rajputmansi7/supply-chain-analytics](https://github.com/Rajputmansi7/supply-chain-analytics)
+**Project Link:** [https://github.com/Rajputmansi7/Supply-Chain-Analytics](https://github.com/Rajputmansi7/Supply-Chain-Analytics-using-n8n)
 
 </div>
 
